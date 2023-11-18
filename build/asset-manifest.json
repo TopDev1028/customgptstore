@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/customgptstore/static/css/main.d0b44d93.css",
+    "main.js": "/customgptstore/static/js/main.b041e6fc.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/customgptstore/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/back2.jpg": "/customgptstore/static/media/back2.0dbae9d078e6df0f8ab8.jpg",
+    "static/media/ListGPT.jpg": "/customgptstore/static/media/ListGPT.f83a343971939ff61b63.jpg",
+    "static/media/AddGPT.jpg": "/customgptstore/static/media/AddGPT.627e6a0dfe134674fa2a.jpg",
+    "static/media/logo.png": "/customgptstore/static/media/logo.50155b92e86aea854864.png",
+    "static/media/logo.svg": "/customgptstore/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/customgptstore/index.html",
+    "main.d0b44d93.css.map": "/customgptstore/static/css/main.d0b44d93.css.map",
+    "main.b041e6fc.js.map": "/customgptstore/static/js/main.b041e6fc.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/customgptstore/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b44d93.css",
+    "static/js/main.b041e6fc.js"
+  ]
+}
